@@ -1,16 +1,19 @@
-## Hi there 👋
+## Halo, aku Aldi
 
+## Tentangku
 
-**zanuaraldi/zanuaraldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jangan bully aku bang, aku mah masih pemula, ajarin dong
 
-Here are some ideas to get you started:
+## Statistik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=midnight-purple" alt="Nicoo's GitHub Stats">
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=midnight-purple&hide_border=false" alt="Nicoo's GitHub Stats">
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=oldie&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Nicoo's GitHub Trophy">
+</p>
