@@ -14,11 +14,6 @@ Hi everyone! I am Zanuar Aldi Syahputra, an active student at the State Polytech
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zanuaraldi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=zanuaraldi&limit=5&theme=dark&combine_all_yearly_contributions=true"><br/>
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=zanuaraldi&icon=0&color=1)](https://visitcount.itsvg.in)
 
