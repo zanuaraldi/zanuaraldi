@@ -1,0 +1,28 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # tiap hari 00:30 UTC (selisih dari workflow kartu statistik)
+  workflow_dispatch: # bisa dijalankan manual dari tab Actions
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "chore: update profile 3d contribution graph" || exit 0
+          git push
